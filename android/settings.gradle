@@ -1,0 +1,7 @@
+
+
+rootProject.name = 'csj'
+
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)//rnv0.61.5
+
+include ':app'
